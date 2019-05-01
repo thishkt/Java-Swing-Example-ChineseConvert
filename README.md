@@ -15,16 +15,20 @@
 (由歐付寶支付平台，提供超商繳費代碼)
 
 ## 銀行轉帳
-![](https://i.imgur.com/hIVhw29.png =200x)
+<img src="https://i.imgur.com/hIVhw29.png " alt="drawing" width="200"/>
 
 銀行名稱 ：玉山銀行-泰山分行 (銀行代碼808)
+
 銀行帳號： 0602-979-092040
+
 帳戶名稱 ：侯光燦
 
 ## 街口打賞
-![](https://i.imgur.com/Yf8Asa3.png =50x)
 
-![](https://i.imgur.com/dvvrByQ.jpg =300x)
+<img src="https://i.imgur.com/Yf8Asa3.png" alt="drawing" width="50"/>
+<br>
+<img src="https://i.imgur.com/dvvrByQ.jpg" alt="drawing" width="300"/>
+
 
 相關連結
 ===

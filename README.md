@@ -1,8 +1,32 @@
-# Java-Swing-Example-ChineseConvert
+# 繁體簡體中文互轉小工具
 
 ![](https://i.imgur.com/Xf3zKw7.jpg)
 
 【從零開始學 Java 程式設計】 [線上教學課程目錄](https://tw-hkt.blogspot.com/2019/03/2019-java-326.html)，使用 Java 程式語言，開發應用程式。
+
+
+
+程式畫面截圖
+===
+
+<img src="https://i.imgur.com/To1QPlK.png" alt="drawing" width="500"/>
+
+ 
+使用第三方 Lib : Opencc4j
+===
+Opencc4j 支持中文繁简体转换，考虑到词组级别
+
+
+### 繁體轉簡體中文
+```
+String original = "從零開始學 Java 程式設計";
+String result = ZhConverterUtil.convertToSimple(original);
+```
+### 簡體轉繁體中文
+```
+String original = "从零开始学 Java 程式设计";
+String result = ZhConverterUtil.convertToTraditional(original);
+```
 
 贊助我們
 ===

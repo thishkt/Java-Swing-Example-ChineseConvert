@@ -38,15 +38,6 @@ String result = ZhConverterUtil.convertToTraditional(original);
 
 (由歐付寶支付平台，提供超商繳費代碼)
 
-## 銀行轉帳
-<img src="https://i.imgur.com/hIVhw29.png " alt="drawing" width="200"/>
-
-銀行名稱 ：玉山銀行-泰山分行 (銀行代碼808)
-
-銀行帳號： 0602-979-092040
-
-帳戶名稱 ：侯光燦
-
 ## 街口打賞
 
 <img src="https://i.imgur.com/Yf8Asa3.png" alt="drawing" width="50"/>
